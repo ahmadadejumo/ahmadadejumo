@@ -13,12 +13,12 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -32,8 +32,8 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-flat&logo=atom&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 <br/>
 
@@ -48,9 +48,9 @@
 
 <p align="center">
 <a href="https://www.adejumoahmad.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ahmad-adejumo-suleiman-143b92172/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/black__africana/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:adejumoahmad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ahmad-adejumo-suleiman-143b92172/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adejumo%20Ahmad%20Suleiman-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/black__africana/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Adejumo__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:adejumoahmad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adejumoahmad@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [ahmadadejumo](https://github.com/ahmadadejumo)
