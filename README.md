@@ -25,7 +25,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-flat&logo=postgresql&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -47,7 +47,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adejumoahmad.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.adejumoahmad.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.aejumoahmad.tech-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ahmad-adejumo-suleiman-143b92172/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adejumo%20Ahmad%20Suleiman-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/black__africana/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Adejumo__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:adejumoahmad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adejumoahmad@gmail.com-blue?style=flat-square&logo=gmail"></a>
