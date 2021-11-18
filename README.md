@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/adejumoahmad/adejumoahmad/master/assets/Adejumo%20Ahmad%20Suleiman%20Banner.png">
-
 <h2> Hey there! I'm Ade.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
