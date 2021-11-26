@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solution.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Kano University Of Science and Technology Wudil.
 - 💼 &nbsp; Working as a Software developer at stem lab kano.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Blockchain Development and Artificial Intelligence.
