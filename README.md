@@ -36,7 +36,7 @@
 <br/>
 
 <a href="https://github.com/ahmadadejumo">
-  <img height="180em" src="[![Ade's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadadejumo&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/ahmadadejumo/github-readme-stats)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadadejumo&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/ahmadadejumo/github-readme-stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadadejumo&theme=buefy&layout=compact" />
 </a>
 
