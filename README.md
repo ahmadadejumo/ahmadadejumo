@@ -33,9 +33,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-flat&logo=visual-studio-code&logoColor=white)
   ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-flat&logo=atom&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+ ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-flat&logo=android-studio&logoColor=white)
 
 <br/>
